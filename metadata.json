@@ -1,0 +1,8 @@
+{
+  "name": "Pusat Cat Indonesia - Manajemen Cat & Thinner",
+  "description": "Aplikasi manajemen stok, konversi satuan, penjualan PKP & retail, serta laporan keuangan untuk Pusat Cat Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
